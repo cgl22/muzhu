@@ -1,4 +1,4 @@
-package com.muzhu.muzhu;
+package com.muzhu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
